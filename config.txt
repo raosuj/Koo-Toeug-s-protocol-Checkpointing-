@@ -1,0 +1,5 @@
+4
+dc41.utdallas.edu	6001
+dc42.utdallas.edu	6002
+dc43.utdallas.edu	6003
+dc44.utdallas.edu	6004
